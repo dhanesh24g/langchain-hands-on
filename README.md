@@ -1,5 +1,4 @@
-# langchain-course
-This repo contains my Langchain course related coding assignments.
-
+# langchain-hands-on
+This repo contains my Langchain Hands-on assignments.
 
 The trace-logs are maintained with Langsmith. 
