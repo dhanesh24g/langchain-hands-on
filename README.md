@@ -1,4 +1,4 @@
-# LangChain + Agentic AI Projects
+# LangChain + Agentic AI Projects + RAG Evaluation
 
 This repository contains modular, hands-on examples exploring key concepts and components in building LLM-powered applications using Python, LangChain, and agentic AI workflows.
 The trace-logs are maintained with Langsmith.
