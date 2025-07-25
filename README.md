@@ -1,12 +1,13 @@
 # LangChain + Agentic AI Projects
 
 This repository contains modular, hands-on examples exploring key concepts and components in building LLM-powered applications using Python, LangChain, and agentic AI workflows.
+The trace-logs are maintained with Langsmith.
 
 ## 🚀 Sections Overview
 
 ### 📘 Section 1: Basics
 
-Foundational concepts to get started with LangChain and LLMs.
+Foundational concepts to get started with LangChain, LangSmith and LLMs.
 
 ### 🔗 Section 2: Chaining and Runnables
 
@@ -65,8 +66,8 @@ Testing multi-tool AI agents for correct tool selection and usage.
 ## 🛠️ Tech Stack
 
 * Python
+* LangChain, LangSmith
 * Ollama, OpenAI
-* LangChain
 * HuggingFace Embeddings
 * Tool Calling (PlayWright)
 * RAG, VectorDBs, Retrievers
