@@ -13,7 +13,6 @@ import streamlit as st
 
 # Load the env file
 load_dotenv(override=True)
-load_dotenv('./../.env')
 
 # Initialize the LLM
 llm_qwen = ChatOllama(
